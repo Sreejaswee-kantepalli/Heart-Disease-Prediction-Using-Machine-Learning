@@ -82,15 +82,15 @@ Among these, Logistic Regression achieved the highest accuracy of **88.18%** and
 
 
 
-&nbsp;                                        **Model**                      | **Accuracy**
+&nbsp;                                        **Model**                   | **Accuracy**
 
 &nbsp;                                        ----------------------------|------------
 
-&nbsp;                                        KNN                        | 0.6885
+&nbsp;                                        KNN                         | 0.6885
 
-&nbsp;                                        Logistic Regression   | 0.8852
+&nbsp;                                        Logistic Regression         | 0.8852
 
-&nbsp;                                        Random Forest         | 0.8361
+&nbsp;                                        Random Forest               | 0.8361
 
 
 
@@ -183,6 +183,7 @@ Copy this code and save it as README.md in the root directory of your GitHub rep
 
 
                                                               
+
 
 
 
